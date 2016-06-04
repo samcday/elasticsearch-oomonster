@@ -1,6 +1,6 @@
 # elasticsearch-oomonster
 
-This plugin adds a `/_cat/oom` endpoint that will helpfully cause your Elasticsearch to eat up all available heap and then explode in a ball of flame.
+This plugin adds a `/_cat/oom` endpoint that will helpfully cause your Elasticsearch to eat up all available heap and then explode in a ball of fire.
 
 Remember, the OOMonster knows when you're sleeping. Probably best not to sleep.
 
